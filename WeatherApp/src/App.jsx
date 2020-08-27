@@ -8,7 +8,7 @@ import {BrowserRouter as Router, Switch, Route, useParams} from "react-router-do
 import axios from "axios";
 
 
-const WEATHER_KEY = "b19a77f8c839bd43ac249e8dbf554f92";
+const WEATHER_KEY = "Enter you API key here";
 
 class App extends Component {
   constructor(props) {
